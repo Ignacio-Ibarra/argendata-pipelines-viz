@@ -1,0 +1,4 @@
+pandas==2.2.2
+numpy==1.24.2
+chart_studio==1.1.0
+plotly==5.22.0
